@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
